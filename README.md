@@ -26,7 +26,7 @@ I build tools, dashboards and training content to help developers and teams get 
 
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 > (Add links to your repos here when you're ready — like 👇)
@@ -36,7 +36,7 @@ I build tools, dashboards and training content to help developers and teams get 
 - 🎓 [Redis Training Labs](#) – Practical exercises for developers to master Redis
 
 ---
-
+-->
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn – Redis Brasil Group](# 👋 Welcome to my GitHub!
