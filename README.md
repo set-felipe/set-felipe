@@ -19,7 +19,7 @@ I build tools, dashboards and training content to help developers and teams get 
 
 | Category        | Tools & Techs                               |
 |----------------|---------------------------------------------|
-| Backend & Scripts | Redis, Python, Bash                       |
+| Backend & Scripts | Redis, Python, Bash, MongoDB                       |
 | Visualization  | Plotly, Dash, Pandas,ML                        |
 | DevOps         | Docker, OpenShift,Redis Sentinel/Cluster  |
 | Monitoring     | Custom health checks  |
