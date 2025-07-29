@@ -1,7 +1,9 @@
 # 👋 Welcome to my GitHub!
 
-Hi! I'm a NoSQL Engineer  specialized in **Redis performance**, **high availability**, and **real-time data pipelines**.  
-I build tools, dashboards and training content to help developers and teams get the most out of Redis — from monitoring and benchmarking to deep-dive clustering.
+Hi! I'm a backend engineer passionate about infrastructure, data, and system intelligence.  
+I work at the crossroads of performance, observability, and automation — turning complex behavior into insights that are clear and actionable.  
+I enjoy building tools, writing logic that explains systems, and creating content that helps others understand how things really work.
+
 
 ---
 
