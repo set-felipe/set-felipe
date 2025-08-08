@@ -39,6 +39,7 @@ I enjoy building tools, writing logic that explains systems, and creating conten
 - 🔍 [Redis Performance Analyzer](#) – Dash-based tool to visualize Redis latency and memory usage
 - 📈 [Redis Benchmark Dashboard](#) – Scripts and graphs to analyze `redis-benchmark` and `memtier` results
 - 🎓 [Redis Training Labs](#) – Practical exercises for developers to master Redis
+-     Seerium - AI assistant for database seerium.com.br
 
 ---
 -->
