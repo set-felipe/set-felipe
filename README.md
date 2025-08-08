@@ -32,10 +32,10 @@ I enjoy building tools, writing logic that explains systems, and creating conten
 📂 Featured Projects
 
 
-- 🔍 [Redis Performance Analyzer](#) – Dash-based tool to visualize Redis latency and memory usage
-- 📈 [Redis Benchmark Dashboard](#) – Scripts and graphs to analyze `redis-benchmark` and `memtier` results
-- 🎓 [Redis Training Labs](#) – Practical exercises for developers to master Redis
--  Seerium -  AI assistant for database seerium.com.br
+- 🔍 [Redis Performance Analyzer](https://github.com/set-felipe/redis-analyzer) – Dash-based tool to visualize Redis latency and memory usage
+- 📈 [Redis Benchmark Dashboard](https://github.com/set-felipe/redis-lab) – Scripts and graphs to analyze `redis-benchmark` and `memtier` results
+- 🎓 [Redis Training Labs]() – Practical exercises for developers to master Redis
+-  [Seerium](https://seerium.com.br/) -  AI assistant for database
 ---
 <!--
 ## 
