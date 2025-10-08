@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub!
 
 Hi! I'm a backend engineer passionate about infrastructure, data, and system intelligence.  
-I work at the crossroads of performance, observability, and automation — turning complex behavior into insights that are clear and actionable.  
+I work at the crossroads of performance, observability, and automation ,turning complex behavior into insights that are clear and actionable.  
 I enjoy building tools, writing logic that explains systems, and creating content that helps others understand how things really work.
 
 
