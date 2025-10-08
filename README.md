@@ -26,7 +26,7 @@ I enjoy building tools, writing logic that explains systems, and creating conten
 |----------------|---------------------------------------------|
 | Backend & Scripts | Redis, Python, Bash, MongoDB,ML                       |
 | Visualization  | Plotly, Dash, Pandas                      |
-| DevOps         | Docker, OpenShift,Redis Sentinel/Cluster  |
+| DevOps         | Docker, OpenShift,Redis , Cloud |
 | Monitoring     | Custom health checks  |
 
 📂 Featured Projects
